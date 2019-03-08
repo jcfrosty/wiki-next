@@ -1,5 +1,3 @@
-
-
 ### Desktop Environment
 * [Removing Desktop Environments](Removing_DEs.md)
 
@@ -36,5 +34,3 @@
 * [Building Custom ISOs](DEV_Molecule.md)
 * [Building a Community Repository](DEV_SCR.md)
 * [Joining Software Testing](DEV_SoftwareTesting.md)
-
-
